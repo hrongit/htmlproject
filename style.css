@@ -267,7 +267,7 @@ span2:nth-child(6)
     font-size: 5.3rem;
     color:white;
     text-transform: uppercase;
-   
+   margin-right: 24%;
 }
 
 .banner .content p{
@@ -301,7 +301,7 @@ span2:nth-child(6)
 
 .container .posts-container .post .image{
     height: 40rem;
-    width:90%;
+    width:100%;
     border-radius: .5rem;
     object-fit: cover;
     box-shadow: 0 5px 15px rgba(120, 120, 120, 0.5);
