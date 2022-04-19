@@ -146,7 +146,7 @@ section{
 
 .banner{
     min-height: 80vh;
-    background:url(../images/a2.jpg) no-repeat;
+    
     background-size: cover;
     background-position: center;
     display: grid;
@@ -291,7 +291,7 @@ span2:nth-child(6)
 }
 
 .container .posts-container .post{
-    width:90%;
+    width:100%;
     padding:2rem;
     background:rgb(0, 0, 0);
     border:var(--border);
@@ -370,7 +370,7 @@ span2:nth-child(6)
     border-radius: .5rem;
     overflow:hidden;
     background:rgba(255,255,255,.04);
-    width: 80%;
+    width: 100%;
     box-shadow: 0 5px 15px rgba(185, 185, 185, 0.7);
     margin-bottom: 1.5rem;
 }
